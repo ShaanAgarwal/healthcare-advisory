@@ -6,9 +6,9 @@ function Home() {
   return (
     <>
     <div>Home</div>
-    <div class="card">
-        <div class="circle"></div>
-        <div class="content">
+    <div className="card">
+        <div className="circle"></div>
+        <div className="content">
            <h2>Cervical Fracture Detection</h2>
            <p>Loren ipsum akjdfasldkfja sdflkajsd flakdsfa;sdkflaja;sdlkf a;sdlkfja s;dflkja ds;fjk 
             lakdjfa</p>
